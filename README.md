@@ -1,2 +1,4 @@
 # hotel-management-system
-It is a hotel management GUI project built using java swing and Mysql
+Requirements 
+Download rs2xml.jar
+Download mysql-connector-java-8.0.27.jar
